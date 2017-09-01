@@ -1,0 +1,12 @@
+{
+    "name": "saha-work/lesson-5.1",
+    "authors": [
+        {
+            "name": "saha-work",
+            "email": "brutal4028@gmail.com"
+        }
+    ],
+    "require": {
+        "yandex/geo": "^1.1"
+    }
+}
