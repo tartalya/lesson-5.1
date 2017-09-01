@@ -33,7 +33,7 @@
 
 
 
-            <?php foreach ($collection as $item): ?>
+            <?php foreach ($collection as $item) :?> 
 
                 <tr>
 

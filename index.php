@@ -4,7 +4,6 @@ require __DIR__ . '/vendor/autoload.php';
 
 
 if (empty($_POST['submit'])) {
-
     require_once 'formtemplate.php';
     die();
 }
